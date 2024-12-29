@@ -1,0 +1,6 @@
+@HR_BEND_HostAddress = http://localhost:5215
+
+GET {{HR_BEND_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
